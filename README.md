@@ -1,4 +1,4 @@
-![ava] (./ava2.png)
+![ava](./ava2.png)
 
 #  **`Mankovski Pavel`**
   
